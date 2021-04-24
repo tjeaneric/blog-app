@@ -2,8 +2,10 @@
 
 
 Clone This Project (Make Sure You Have Git Installed)
+
 ```
-https://github.com/tjeaneric/blog-app.git```
+https://github.com/tjeaneric/blog-app.git
+```
 Install Dependencies 
 
 ```
