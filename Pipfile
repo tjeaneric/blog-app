@@ -7,6 +7,7 @@ name = "pypi"
 django = "*"
 django-crispy-forms = "*"
 gunicorn = "==19.9.0"
+whitenoise = "==4.1.4"
 
 [dev-packages]
 
