@@ -15,6 +15,11 @@ header h1 a {
 
 }
 
+.para{
+    display: inline;
+    margin-left: 10px;
+}
+
 
 .nav-left {
     margin-right: auto;
