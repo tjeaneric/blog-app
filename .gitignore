@@ -1,0 +1,14 @@
+*.pyc
+*.save
+*.python
+*.iml
+*.log
+.idea/
+venv/
+.vscode
+
+__pycache__
+env.sh
+uploads/
+*.dump
+
