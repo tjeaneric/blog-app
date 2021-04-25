@@ -1,7 +1,11 @@
 # blog-app
 
-<h2>This blog app allows the users to view, read, create, update,delete and comment on the posted posts</h2>
+<h2>This blog app allows the users to read, create, update,delete and comment on the posted posts</h2>
 <hr>
+
+**Only authenticated users can create, update, delete and comment.**
+
+Want to checkout it out? Visit [https://korona-blog.herokuapp.com/]
 
 
 Clone This Project (Make Sure You Have Git Installed)
