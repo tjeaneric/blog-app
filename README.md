@@ -1,6 +1,7 @@
 # blog-app
 
 <h2>This blog app allows the users to view, read, create, update,delete and comment on the posted posts</h2>
+<hr>
 
 
 Clone This Project (Make Sure You Have Git Installed)
