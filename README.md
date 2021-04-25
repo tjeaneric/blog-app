@@ -5,6 +5,8 @@
 
 **Only authenticated users can create, update, delete and comment.**
 
+<strong>when Resetting password, the email which contains instructions is sent to your Terminal.</strong>
+
 Want to checkout it out? Visit:
 
 ```https://korona-blog.herokuapp.com/```
