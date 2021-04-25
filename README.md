@@ -11,8 +11,11 @@
 
 **Only authenticated users can create, update, delete and comment. Otherwise they will be redirected to the home page**
 
+<hr>
 
 <strong>when Resetting password, the email which contains instructions is sent to your Terminal.</strong>
+
+<hr> 
 
 Want to checkout it out? Visit:
 
