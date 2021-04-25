@@ -5,7 +5,9 @@
 
 **Only authenticated users can create, update, delete and comment.**
 
-Want to checkout it out? Visit [https://korona-blog.herokuapp.com/]
+Want to checkout it out? Visit:
+
+```https://korona-blog.herokuapp.com/```
 
 
 Clone This Project (Make Sure You Have Git Installed)
