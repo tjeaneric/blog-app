@@ -3,6 +3,8 @@
 <h2>This blog app allows the users to read, create, update,delete and comment on the posted posts</h2>
 <hr>
 
+**This app has a user authentication feature where you can SignUp, Login, Change Password and Reset Password**
+
 **Only authenticated users can create, update, delete and comment.**
 
 <strong>when Resetting password, the email which contains instructions is sent to your Terminal.</strong>
