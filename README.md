@@ -5,7 +5,7 @@
 
 **This app has a user authentication feature where you can SignUp, Login, Change Password and Reset Password**
 
-**Only authenticated users can create, update, delete and comment.**
+**Only authenticated users can create, update, delete and comment. Otherwise they will be redirected to the home page**
 
 <strong>when Resetting password, the email which contains instructions is sent to your Terminal.</strong>
 
