@@ -67,15 +67,20 @@ class BlogCreateView(LoginRequiredMixin, CreateView):
     model = Post
     template_name = 'post_new.html'
     fields = ['title', 'author', 'body']
+    login_url = 'login'
+
 
 
 class BlogUpdateView(LoginRequiredMixin, UpdateView):
     model = Post
     template_name = 'post_edit.html'
     fields = ['title', 'body']
+    login_url = 'login'
 
 
 class BlogDeleteView(LoginRequiredMixin, DeleteView):
     model = Post
     template_name = 'post_delete.html'
     success_url = reverse_lazy('home')
+    login_url = 'login'
+
