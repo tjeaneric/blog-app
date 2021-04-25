@@ -4,8 +4,9 @@
 <hr>
 
 **This app has a user authentication feature where you can SignUp, Login, Change Password and Reset Password**
+<hr>
 **Logged in users can't access the login and signup page, they will be redirected to the home page**
-
+<hr>
 **Only authenticated users can create, update, delete and comment. Otherwise they will be redirected to the home page**
 
 
