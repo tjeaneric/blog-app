@@ -10,6 +10,7 @@ from django.contrib.auth.views import LoginView
 
 from django.contrib.auth.mixins import LoginRequiredMixin
 
+from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
 from .forms import NewCommentForm
 
@@ -17,13 +18,12 @@ from .forms import NewCommentForm
 
 
 class CustomLoginView(LoginView):
-    pass
-    # template_name = 'login.html'
-    # fields = '__all__'
-    # redirect_authenticated_user = True
+    template_name = 'login.html'
+    fields = '__all__'
+    redirect_authenticated_user = True
 
-    # def get_success_url(self):
-    #     return reverse_lazy('home')
+    def get_success_url(self):
+        return reverse_lazy('home')
 
 
 
